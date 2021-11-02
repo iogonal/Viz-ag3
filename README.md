@@ -1,3 +1,3 @@
-# js-6nagen
+# viz-ag3
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-6nagen)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/viz-ag3)
