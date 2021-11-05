@@ -60,7 +60,7 @@ var visualization = d3plus.viz()
     {"year": 1992, "name":"delta", "value": 43},
     {"year": 1991, "name":"delta2", "value": 17},
     {"year": 1992, "name":"delta2", "value": 35}
-  ]     
+  ]
 
 
   var visualization = d3plus.viz()
@@ -71,3 +71,14 @@ var visualization = d3plus.viz()
   .x("year")
   .y("value")
   .draw()
+
+
+  var visualization = d3plus.viz()
+  .container("#viz3")
+  .data(data2)
+  .type("scatter")
+  .id("name")
+  .x("year")
+  .y("value")
+  .draw()
+
